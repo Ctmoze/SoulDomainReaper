@@ -25,9 +25,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
   - 
   - 
   - 
@@ -40,4 +40,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 263939689
+    locked: 0
+  - name: Environment
+    uniqueID: 618817503
+    locked: 0
+  - name: Item
+    uniqueID: 2742385979
+    locked: 0
+  - name: Character
+    uniqueID: 4189426099
+    locked: 0
+  - name: VFX
+    uniqueID: 4250941897
+    locked: 0
+  - name: UI
+    uniqueID: 2425651459
     locked: 0
